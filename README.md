@@ -1,4 +1,4 @@
-![MasterHead](https://docs.kariyer.net/candidate/000/033/173/avatar/3317328720240115014533268.jpg?filesec=XdsV1VzBKiPzRwcAz5MUUgAJq2btrcN05ObtwNC9cLUAmPchCgp4gLP9Rv27nzIDnmco3rhEdWXTU88tP6Mbqzw5msGksMOk!e!)
+
 <h1 align="center">Hi 👋, I'm Emre Akar</h1>
 <h3 align="center">I am a software engineering student living in Turkey and I am developing myself in software fields and also in cyber security.</h3>
 
